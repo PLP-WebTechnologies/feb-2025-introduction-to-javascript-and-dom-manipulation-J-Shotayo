@@ -43,7 +43,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // Bonus: Change main title on hover
     const mainTitle = document.getElementById('main-title');
     
     mainTitle.addEventListener('mouseenter', function() {
